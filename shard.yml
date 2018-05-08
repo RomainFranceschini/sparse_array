@@ -1,0 +1,9 @@
+name: sparse_array
+version: 1.0.0
+
+authors:
+  - Romain Franceschini <franceschini.romain@gmail.com>
+
+# crystal: 0.24.2
+
+license: MIT
